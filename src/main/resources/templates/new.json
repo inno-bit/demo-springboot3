@@ -1,0 +1,14 @@
+@RestController
+@RequestMapping("/demo")
+public class DemoController {
+
+
+    @GetMapping("/os")
+    public List<String> os(){
+    return List.of("win","linux","mac");
+}
+
+
+ss
+inno
+}

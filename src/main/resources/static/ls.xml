@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<system include="inno">
+    <name desc="description of app">
+        <age>12</age>
+        demo-springboot3demo
+        linux
+    </name>
+    <description>demo-springboot3demo</description>
+    <version>0.0.1-SNAPSHOT</version>
+    <properties>
+        you
+        are
+        my
+        shine
+    </properties>
+    <author>
+        <name>inno</name>
+        <email>1597076708@qq.com</email>
+    </author>
+    <config>
+        <field p="1">linux</field>
+        <field u="2">windows</field>
+        <field g="we">mac</field>
+    </config>
+</system>
